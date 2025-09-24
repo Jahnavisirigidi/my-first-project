@@ -1,0 +1,3 @@
+Name= s.jahnavi devi
+course= BCA
+Its my first day in GitHub. I have learnt about creating repository, adding files, updating repository.
